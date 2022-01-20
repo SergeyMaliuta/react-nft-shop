@@ -2,7 +2,7 @@
 
 ### Stack:
 
-+ ReactJS + хуки
++ ReactJS + Hooks
 + React Router
 + Axios
 + SCSS
