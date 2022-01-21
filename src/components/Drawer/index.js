@@ -101,19 +101,6 @@ function Drawer({ onClose, onRemove, items = [], opened }) {
                     />
                   </b>
                 </li>
-                <li>
-                  <span>Tax 5%:</span>
-                  <div></div>
-                  <b>
-                    {(totalPrice / 100) * 5}
-                    <img
-                      width={12}
-                      height={12}
-                      src="/img/weth.svg"
-                      alt="Price"
-                    />
-                  </b>
-                </li>
               </ul>
               <button
                 disabled={isLoading}
